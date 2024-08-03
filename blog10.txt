@@ -8,7 +8,7 @@
   <script>
     
     setTimeout(function() {
-      window.location.href = 'https://pezoomsekre.com/4/7428501';
+      window.location.href = 'https://kessauksi.net/4/6844487';
     }, 4000);
   </script>
 </head>
